@@ -1,2 +1,2 @@
 # practise
-i am learning using github
+i am learning how to use github
